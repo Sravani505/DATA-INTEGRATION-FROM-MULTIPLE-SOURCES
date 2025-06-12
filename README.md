@@ -2,7 +2,7 @@
 
 **Company Name:** CODTECH IT SOLUTIONS PRIVATE LIMITED  
 **Created by:** Sravani  
-**Intern ID:** CT06DM1171  
+**Intern ID:** CT06DN1171  
 **Domain:** Power BI  
 **Batch Duration:** 6 weeks (May 20th – July 5th)  
 **Mentor:** Neela Santhosh Kumar  
