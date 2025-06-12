@@ -37,3 +37,4 @@ The dashboard offers in-depth analysis of:
 - Power BI Desktop
 
 ## Output
+![Image](https://github.com/user-attachments/assets/15a03352-73c6-4dd2-aa45-80cb3c38e0fb)
